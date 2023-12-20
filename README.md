@@ -75,8 +75,8 @@ nor (ynor, a,b);
 xnor (yxnor, a,b);
 endmodule
 ```
-## Developed by: Haarish.V
-## Register Number:  23013963
+## Developed by: Tarunika Damodaran 
+## Register Number:  212223040227
 ## Output:
 ### Code:
 ![code](/Program.png)
